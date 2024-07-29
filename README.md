@@ -28,7 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./src/design/desktop-design.jpg)
+![Screenshot](./src/assets/design/mydesign/desktop-design.png)
+![Screenshot](./src/assets/design/mydesign/mobile-design.png)
+![Screenshot](./src/assets/design/mydesign/activeState.png)
 
 ### Links
 
@@ -42,7 +44,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+- Desktop-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Vite](https://vitejs.dev/) - Build tool
 
@@ -176,7 +178,7 @@ In future projects, I want to focus more on accessibility and performance optimi
 - Website - [Your Name](https://www.your-site.com)
 - Frontend Mentor - [@Hilton-J](https://www.frontendmentor.io/profile/Hilton-J)
 
-## Acknowledgments
+## Conclusion
 
 I would like to thank the Frontend Mentor for this challenge, and for the support from the community.
 
