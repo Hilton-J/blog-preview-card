@@ -16,7 +16,7 @@ const Card = () => {
                     <p>These languages are the backbone of every website, defining structure, content, and presentation.</p>
                 </div>
                 <div className='card_user'>
-                    <div><img src={Avatar} alt='aicture' /></div>
+                    <div className='user_image'><img src={Avatar} alt='aicture' /></div>
                     <p className='pair'>Greg Hooper</p>
                 </div>
             </article>
